@@ -1,0 +1,22 @@
+[
+    {"orderid": "order001", "customerid": "cust001", "productid": "prod001", "totprice": 19.99},
+    {"orderid": "order002", "customerid": "cust002", "productid": "prod002", "totprice": 49.99},
+    {"orderid": "order003", "customerid": "cust003", "productid": "prod003", "totprice": 5.99},
+    {"orderid": "order004", "customerid": "cust004", "productid": "prod004", "totprice": 12.49},
+    {"orderid": "order005", "customerid": "cust005", "productid": "prod005", "totprice": 99.95},
+    {"orderid": "order006", "customerid": "cust006", "productid": "prod006", "totprice": 7.50},
+    {"orderid": "order007", "customerid": "cust007", "productid": "prod007", "totprice": 24.99},
+    {"orderid": "order008", "customerid": "cust008", "productid": "prod008", "totprice": 15.75},
+    {"orderid": "order009", "customerid": "cust009", "productid": "prod009", "totprice": 49.00},
+    {"orderid": "order010", "customerid": "cust010", "productid": "prod010", "totprice": 33.25},
+    {"orderid": "order011", "customerid": "cust011", "productid": "prod011", "totprice": 18.40},
+    {"orderid": "order012", "customerid": "cust012", "productid": "prod012", "totprice": 7.99},
+    {"orderid": "order013", "customerid": "cust013", "productid": "prod013", "totprice": 55.10},
+    {"orderid": "order014", "customerid": "cust014", "productid": "prod014", "totprice": 9.95},
+    {"orderid": "order015", "customerid": "cust015", "productid": "prod015", "totprice": 44.25},
+    {"orderid": "order016", "customerid": "cust016", "productid": "prod016", "totprice": 85.99},
+    {"orderid": "order017", "customerid": "cust017", "productid": "prod017", "totprice": 32.50},
+    {"orderid": "order018", "customerid": "cust018", "productid": "prod018", "totprice": 65.75},
+    {"orderid": "order019", "customerid": "cust019", "productid": "prod019", "totprice": 28.30},
+    {"orderid": "order020", "customerid": "cust020", "productid": "prod020", "totprice": 13.99}
+]
